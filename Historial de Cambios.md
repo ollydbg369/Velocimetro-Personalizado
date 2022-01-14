@@ -1,5 +1,5 @@
 # 13/01/2022
-* Agregado opcion en el archivo velocimetro_personalizado.ini poder cambiar el valor minimo para el aviso de combustible
+* Agregado opcion en el archivo velocimetro_personalizado.ini poder cambiar el valor minímo para el aviso de combustible bajo
 vAvisoGaso=11
 * Corrección: mientras se mostraba el aviso de bajo nivel de combustible aparecían avisos warning o provocaban posibles crash al juego.
 * Corrección: al activar la opción de mostrar estado de las puertas mostraba el modelo incorrecto del vehículo.
